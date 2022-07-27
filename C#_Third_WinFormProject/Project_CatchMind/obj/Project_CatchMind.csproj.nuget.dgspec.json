@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\BasicDeveloper\\1.AcademyProject\\C#_Third_WinFormProject\\Project_CatchMind\\Project_CatchMind.csproj": {}
+  },
+  "projects": {
+    "C:\\BasicDeveloper\\1.AcademyProject\\C#_Third_WinFormProject\\Project_CatchMind\\Project_CatchMind.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\BasicDeveloper\\1.AcademyProject\\C#_Third_WinFormProject\\Project_CatchMind\\Project_CatchMind.csproj",
+        "projectName": "Project_CatchMind",
+        "projectPath": "C:\\BasicDeveloper\\1.AcademyProject\\C#_Third_WinFormProject\\Project_CatchMind\\Project_CatchMind.csproj",
+        "packagesPath": "C:\\Users\\TASCO_SF\\.nuget\\packages\\",
+        "outputPath": "C:\\BasicDeveloper\\1.AcademyProject\\C#_Third_WinFormProject\\Project_CatchMind\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\TASCO_SF\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
