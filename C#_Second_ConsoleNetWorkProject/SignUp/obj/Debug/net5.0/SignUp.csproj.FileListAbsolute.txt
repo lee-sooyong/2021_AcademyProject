@@ -1,0 +1,373 @@
+C:\Users\bitcamp\source\repos\SignUp\obj\Debug\net5.0\SignUp.csprojAssemblyReference.cache
+C:\Users\bitcamp\source\repos\SignUp\obj\Debug\net5.0\SignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitcamp\source\repos\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfoInputs.cache
+C:\Users\bitcamp\source\repos\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfo.cs
+C:\Users\bitcamp\source\repos\SignUp\obj\Debug\net5.0\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\SignUp\obj\Debug\net5.0\SignUp.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\SignUp\obj\Debug\net5.0\SignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitcamp\Desktop\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfoInputs.cache
+C:\Users\bitcamp\Desktop\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfo.cs
+C:\Users\bitcamp\Desktop\SignUp\obj\Debug\net5.0\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\SignUp\bin\Debug\net5.0\SignUp.exe
+C:\Users\bitcamp\Desktop\SignUp\bin\Debug\net5.0\SignUp.deps.json
+C:\Users\bitcamp\Desktop\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.json
+C:\Users\bitcamp\Desktop\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.dev.json
+C:\Users\bitcamp\Desktop\SignUp\bin\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\SignUp\bin\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\SignUp\bin\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\SignUp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\SignUp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\bitcamp\Desktop\SignUp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\bitcamp\Desktop\SignUp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\bitcamp\Desktop\SignUp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\SignUp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\SignUp\obj\Debug\net5.0\SignUp.csproj.CopyComplete
+C:\Users\bitcamp\Desktop\SignUp\obj\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\SignUp\obj\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\SignUp\obj\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\SignUp\obj\Debug\net5.0\SignUp.genruntimeconfig.cache
+C:\Users\HM123\Desktop\SignUp\bin\Debug\net5.0\SignUp.exe
+C:\Users\HM123\Desktop\SignUp\bin\Debug\net5.0\SignUp.deps.json
+C:\Users\HM123\Desktop\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.json
+C:\Users\HM123\Desktop\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.dev.json
+C:\Users\HM123\Desktop\SignUp\bin\Debug\net5.0\SignUp.dll
+C:\Users\HM123\Desktop\SignUp\bin\Debug\net5.0\ref\SignUp.dll
+C:\Users\HM123\Desktop\SignUp\bin\Debug\net5.0\SignUp.pdb
+C:\Users\HM123\Desktop\SignUp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\HM123\Desktop\SignUp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HM123\Desktop\SignUp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\HM123\Desktop\SignUp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\HM123\Desktop\SignUp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HM123\Desktop\SignUp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HM123\Desktop\SignUp\obj\Debug\net5.0\SignUp.csproj.AssemblyReference.cache
+C:\Users\HM123\Desktop\SignUp\obj\Debug\net5.0\SignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HM123\Desktop\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfoInputs.cache
+C:\Users\HM123\Desktop\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfo.cs
+C:\Users\HM123\Desktop\SignUp\obj\Debug\net5.0\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\HM123\Desktop\SignUp\obj\Debug\net5.0\SignUp.csproj.CopyComplete
+C:\Users\HM123\Desktop\SignUp\obj\Debug\net5.0\SignUp.dll
+C:\Users\HM123\Desktop\SignUp\obj\Debug\net5.0\ref\SignUp.dll
+C:\Users\HM123\Desktop\SignUp\obj\Debug\net5.0\SignUp.pdb
+C:\Users\HM123\Desktop\SignUp\obj\Debug\net5.0\SignUp.genruntimeconfig.cache
+C:\Users\bitcamp\Desktop\6_10\SignUp\bin\Debug\net5.0\SignUp.exe
+C:\Users\bitcamp\Desktop\6_10\SignUp\bin\Debug\net5.0\SignUp.deps.json
+C:\Users\bitcamp\Desktop\6_10\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.json
+C:\Users\bitcamp\Desktop\6_10\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.dev.json
+C:\Users\bitcamp\Desktop\6_10\SignUp\bin\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\6_10\SignUp\bin\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\6_10\SignUp\bin\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\6_10\SignUp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\6_10\SignUp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\bitcamp\Desktop\6_10\SignUp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\bitcamp\Desktop\6_10\SignUp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\bitcamp\Desktop\6_10\SignUp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\6_10\SignUp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\6_10\SignUp\obj\Debug\net5.0\SignUp.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\6_10\SignUp\obj\Debug\net5.0\SignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitcamp\Desktop\6_10\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfoInputs.cache
+C:\Users\bitcamp\Desktop\6_10\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfo.cs
+C:\Users\bitcamp\Desktop\6_10\SignUp\obj\Debug\net5.0\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\6_10\SignUp\obj\Debug\net5.0\SignUp.csproj.CopyComplete
+C:\Users\bitcamp\Desktop\6_10\SignUp\obj\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\6_10\SignUp\obj\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\6_10\SignUp\obj\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\6_10\SignUp\obj\Debug\net5.0\SignUp.genruntimeconfig.cache
+C:\Users\HM123\Desktop\6_10_1\SignUp\bin\Debug\net5.0\SignUp.exe
+C:\Users\HM123\Desktop\6_10_1\SignUp\bin\Debug\net5.0\SignUp.deps.json
+C:\Users\HM123\Desktop\6_10_1\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.json
+C:\Users\HM123\Desktop\6_10_1\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.dev.json
+C:\Users\HM123\Desktop\6_10_1\SignUp\bin\Debug\net5.0\SignUp.dll
+C:\Users\HM123\Desktop\6_10_1\SignUp\bin\Debug\net5.0\ref\SignUp.dll
+C:\Users\HM123\Desktop\6_10_1\SignUp\bin\Debug\net5.0\SignUp.pdb
+C:\Users\HM123\Desktop\6_10_1\SignUp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\HM123\Desktop\6_10_1\SignUp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HM123\Desktop\6_10_1\SignUp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\HM123\Desktop\6_10_1\SignUp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\HM123\Desktop\6_10_1\SignUp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HM123\Desktop\6_10_1\SignUp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HM123\Desktop\6_10_1\SignUp\obj\Debug\net5.0\SignUp.csproj.AssemblyReference.cache
+C:\Users\HM123\Desktop\6_10_1\SignUp\obj\Debug\net5.0\SignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HM123\Desktop\6_10_1\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfoInputs.cache
+C:\Users\HM123\Desktop\6_10_1\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfo.cs
+C:\Users\HM123\Desktop\6_10_1\SignUp\obj\Debug\net5.0\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\HM123\Desktop\6_10_1\SignUp\obj\Debug\net5.0\SignUp.csproj.CopyComplete
+C:\Users\HM123\Desktop\6_10_1\SignUp\obj\Debug\net5.0\SignUp.dll
+C:\Users\HM123\Desktop\6_10_1\SignUp\obj\Debug\net5.0\ref\SignUp.dll
+C:\Users\HM123\Desktop\6_10_1\SignUp\obj\Debug\net5.0\SignUp.pdb
+C:\Users\HM123\Desktop\6_10_1\SignUp\obj\Debug\net5.0\SignUp.genruntimeconfig.cache
+C:\Users\bitcamp\Desktop\6_11\SignUp\bin\Debug\net5.0\SignUp.exe
+C:\Users\bitcamp\Desktop\6_11\SignUp\bin\Debug\net5.0\SignUp.deps.json
+C:\Users\bitcamp\Desktop\6_11\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.json
+C:\Users\bitcamp\Desktop\6_11\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.dev.json
+C:\Users\bitcamp\Desktop\6_11\SignUp\bin\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\6_11\SignUp\bin\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\6_11\SignUp\bin\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\6_11\SignUp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\6_11\SignUp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\bitcamp\Desktop\6_11\SignUp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\bitcamp\Desktop\6_11\SignUp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\bitcamp\Desktop\6_11\SignUp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\6_11\SignUp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\6_11\SignUp\obj\Debug\net5.0\SignUp.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\6_11\SignUp\obj\Debug\net5.0\SignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitcamp\Desktop\6_11\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfoInputs.cache
+C:\Users\bitcamp\Desktop\6_11\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfo.cs
+C:\Users\bitcamp\Desktop\6_11\SignUp\obj\Debug\net5.0\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\6_11\SignUp\obj\Debug\net5.0\SignUp.csproj.CopyComplete
+C:\Users\bitcamp\Desktop\6_11\SignUp\obj\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\6_11\SignUp\obj\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\6_11\SignUp\obj\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\6_11\SignUp\obj\Debug\net5.0\SignUp.genruntimeconfig.cache
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\bin\Debug\net5.0\SignUp.exe
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\bin\Debug\net5.0\SignUp.deps.json
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.json
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.dev.json
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\bin\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\bin\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\bin\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\obj\Debug\net5.0\SignUp.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\obj\Debug\net5.0\SignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfoInputs.cache
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfo.cs
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\obj\Debug\net5.0\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\obj\Debug\net5.0\SignUp.csproj.CopyComplete
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\obj\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\obj\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\obj\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\signup 찐막\SignUp\obj\Debug\net5.0\SignUp.genruntimeconfig.cache
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\bin\Debug\net5.0\SignUp.exe
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\bin\Debug\net5.0\SignUp.deps.json
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.json
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.dev.json
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\bin\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\bin\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\bin\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\obj\Debug\net5.0\SignUp.csprojAssemblyReference.cache
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\obj\Debug\net5.0\SignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfoInputs.cache
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfo.cs
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\obj\Debug\net5.0\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\obj\Debug\net5.0\SignUp.csproj.CopyComplete
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\obj\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\obj\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\obj\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Documents\카카오톡 받은 파일\signup 찐막\SignUp\obj\Debug\net5.0\SignUp.genruntimeconfig.cache
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\bin\Debug\net5.0\SignUp.exe
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\bin\Debug\net5.0\SignUp.deps.json
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.json
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.dev.json
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\bin\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\bin\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\bin\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\obj\Debug\net5.0\SignUp.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\obj\Debug\net5.0\SignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfoInputs.cache
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfo.cs
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\obj\Debug\net5.0\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\obj\Debug\net5.0\SignUp.csproj.CopyComplete
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\obj\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\obj\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\obj\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\signup 합본\SignUp\obj\Debug\net5.0\SignUp.genruntimeconfig.cache
+C:\Users\bitcamp\Desktop\6_12\SignUp\bin\Debug\net5.0\SignUp.exe
+C:\Users\bitcamp\Desktop\6_12\SignUp\bin\Debug\net5.0\SignUp.deps.json
+C:\Users\bitcamp\Desktop\6_12\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.json
+C:\Users\bitcamp\Desktop\6_12\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.dev.json
+C:\Users\bitcamp\Desktop\6_12\SignUp\bin\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\6_12\SignUp\bin\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\6_12\SignUp\bin\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\6_12\SignUp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\6_12\SignUp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\bitcamp\Desktop\6_12\SignUp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\bitcamp\Desktop\6_12\SignUp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\bitcamp\Desktop\6_12\SignUp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\6_12\SignUp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\6_12\SignUp\obj\Debug\net5.0\SignUp.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\6_12\SignUp\obj\Debug\net5.0\SignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitcamp\Desktop\6_12\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfoInputs.cache
+C:\Users\bitcamp\Desktop\6_12\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfo.cs
+C:\Users\bitcamp\Desktop\6_12\SignUp\obj\Debug\net5.0\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\6_12\SignUp\obj\Debug\net5.0\SignUp.csproj.CopyComplete
+C:\Users\bitcamp\Desktop\6_12\SignUp\obj\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\6_12\SignUp\obj\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\6_12\SignUp\obj\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\6_12\SignUp\obj\Debug\net5.0\SignUp.genruntimeconfig.cache
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\SignUp.exe
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\SignUp.deps.json
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.json
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.dev.json
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\obj\Debug\net5.0\SignUp.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\obj\Debug\net5.0\SignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfoInputs.cache
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfo.cs
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\obj\Debug\net5.0\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\obj\Debug\net5.0\SignUp.csproj.CopyComplete
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\obj\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\obj\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\obj\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\새 폴더 (2)\6_12\6_12\SignUp\obj\Debug\net5.0\SignUp.genruntimeconfig.cache
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\SignUp.exe
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\SignUp.deps.json
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.json
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.dev.json
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\obj\Debug\net5.0\SignUp.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\obj\Debug\net5.0\SignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfoInputs.cache
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfo.cs
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\obj\Debug\net5.0\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\obj\Debug\net5.0\SignUp.csproj.CopyComplete
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\obj\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\obj\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\obj\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\SignUp\obj\Debug\net5.0\SignUp.genruntimeconfig.cache
+C:\Users\HM123\Desktop\6_13\SignUp\bin\Debug\net5.0\SignUp.exe
+C:\Users\HM123\Desktop\6_13\SignUp\bin\Debug\net5.0\SignUp.deps.json
+C:\Users\HM123\Desktop\6_13\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.json
+C:\Users\HM123\Desktop\6_13\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.dev.json
+C:\Users\HM123\Desktop\6_13\SignUp\bin\Debug\net5.0\SignUp.dll
+C:\Users\HM123\Desktop\6_13\SignUp\bin\Debug\net5.0\ref\SignUp.dll
+C:\Users\HM123\Desktop\6_13\SignUp\bin\Debug\net5.0\SignUp.pdb
+C:\Users\HM123\Desktop\6_13\SignUp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\HM123\Desktop\6_13\SignUp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HM123\Desktop\6_13\SignUp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\HM123\Desktop\6_13\SignUp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\HM123\Desktop\6_13\SignUp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HM123\Desktop\6_13\SignUp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HM123\Desktop\6_13\SignUp\obj\Debug\net5.0\SignUp.csproj.AssemblyReference.cache
+C:\Users\HM123\Desktop\6_13\SignUp\obj\Debug\net5.0\SignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HM123\Desktop\6_13\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfoInputs.cache
+C:\Users\HM123\Desktop\6_13\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfo.cs
+C:\Users\HM123\Desktop\6_13\SignUp\obj\Debug\net5.0\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\HM123\Desktop\6_13\SignUp\obj\Debug\net5.0\SignUp.csproj.CopyComplete
+C:\Users\HM123\Desktop\6_13\SignUp\obj\Debug\net5.0\SignUp.dll
+C:\Users\HM123\Desktop\6_13\SignUp\obj\Debug\net5.0\ref\SignUp.dll
+C:\Users\HM123\Desktop\6_13\SignUp\obj\Debug\net5.0\SignUp.pdb
+C:\Users\HM123\Desktop\6_13\SignUp\obj\Debug\net5.0\SignUp.genruntimeconfig.cache
+C:\Users\bitcamp\Desktop\6_13\SignUp\bin\Debug\net5.0\SignUp.exe
+C:\Users\bitcamp\Desktop\6_13\SignUp\bin\Debug\net5.0\SignUp.deps.json
+C:\Users\bitcamp\Desktop\6_13\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.json
+C:\Users\bitcamp\Desktop\6_13\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.dev.json
+C:\Users\bitcamp\Desktop\6_13\SignUp\bin\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\6_13\SignUp\bin\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\6_13\SignUp\bin\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\6_13\SignUp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\6_13\SignUp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\bitcamp\Desktop\6_13\SignUp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\bitcamp\Desktop\6_13\SignUp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\bitcamp\Desktop\6_13\SignUp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\6_13\SignUp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\6_13\SignUp\obj\Debug\net5.0\SignUp.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\6_13\SignUp\obj\Debug\net5.0\SignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitcamp\Desktop\6_13\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfoInputs.cache
+C:\Users\bitcamp\Desktop\6_13\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfo.cs
+C:\Users\bitcamp\Desktop\6_13\SignUp\obj\Debug\net5.0\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\6_13\SignUp\obj\Debug\net5.0\SignUp.csproj.CopyComplete
+C:\Users\bitcamp\Desktop\6_13\SignUp\obj\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\6_13\SignUp\obj\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\6_13\SignUp\obj\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\6_13\SignUp\obj\Debug\net5.0\SignUp.genruntimeconfig.cache
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\bin\Debug\net5.0\SignUp.exe
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\bin\Debug\net5.0\SignUp.deps.json
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.json
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.dev.json
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\bin\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\bin\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\bin\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\obj\Debug\net5.0\SignUp.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\obj\Debug\net5.0\SignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfoInputs.cache
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfo.cs
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\obj\Debug\net5.0\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\obj\Debug\net5.0\SignUp.csproj.CopyComplete
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\obj\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\obj\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\obj\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\6_13_1\SignUp\obj\Debug\net5.0\SignUp.genruntimeconfig.cache
+C:\Users\bitcamp\Desktop\6_14\SignUp\bin\Debug\net5.0\SignUp.exe
+C:\Users\bitcamp\Desktop\6_14\SignUp\bin\Debug\net5.0\SignUp.deps.json
+C:\Users\bitcamp\Desktop\6_14\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.json
+C:\Users\bitcamp\Desktop\6_14\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.dev.json
+C:\Users\bitcamp\Desktop\6_14\SignUp\bin\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\6_14\SignUp\bin\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\6_14\SignUp\bin\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\6_14\SignUp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\6_14\SignUp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\bitcamp\Desktop\6_14\SignUp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\bitcamp\Desktop\6_14\SignUp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\bitcamp\Desktop\6_14\SignUp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\6_14\SignUp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bitcamp\Desktop\6_14\SignUp\obj\Debug\net5.0\SignUp.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\6_14\SignUp\obj\Debug\net5.0\SignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bitcamp\Desktop\6_14\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfoInputs.cache
+C:\Users\bitcamp\Desktop\6_14\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfo.cs
+C:\Users\bitcamp\Desktop\6_14\SignUp\obj\Debug\net5.0\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\6_14\SignUp\obj\Debug\net5.0\SignUp.csproj.CopyComplete
+C:\Users\bitcamp\Desktop\6_14\SignUp\obj\Debug\net5.0\SignUp.dll
+C:\Users\bitcamp\Desktop\6_14\SignUp\obj\Debug\net5.0\ref\SignUp.dll
+C:\Users\bitcamp\Desktop\6_14\SignUp\obj\Debug\net5.0\SignUp.pdb
+C:\Users\bitcamp\Desktop\6_14\SignUp\obj\Debug\net5.0\SignUp.genruntimeconfig.cache
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\bin\Debug\net5.0\SignUp.exe
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\bin\Debug\net5.0\SignUp.deps.json
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.json
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\bin\Debug\net5.0\SignUp.runtimeconfig.dev.json
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\bin\Debug\net5.0\SignUp.dll
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\bin\Debug\net5.0\ref\SignUp.dll
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\bin\Debug\net5.0\SignUp.pdb
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\obj\Debug\net5.0\SignUp.csproj.AssemblyReference.cache
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\obj\Debug\net5.0\SignUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfoInputs.cache
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\obj\Debug\net5.0\SignUp.AssemblyInfo.cs
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\obj\Debug\net5.0\SignUp.csproj.CoreCompileInputs.cache
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\obj\Debug\net5.0\SignUp.csproj.CopyComplete
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\obj\Debug\net5.0\SignUp.dll
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\obj\Debug\net5.0\ref\SignUp.dll
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\obj\Debug\net5.0\SignUp.pdb
+C:\Users\TASCO_SF\Downloads\Team2-20220727T045119Z-001\Team2\Team2\SignUp\obj\Debug\net5.0\SignUp.genruntimeconfig.cache

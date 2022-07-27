@@ -1,0 +1,78 @@
+C:\Users\bitcamp\Desktop\signup 찐막\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\bitcamp\Desktop\signup 찐막\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\bitcamp\Desktop\signup 찐막\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\bitcamp\Desktop\signup 찐막\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\bitcamp\Desktop\signup 찐막\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\bitcamp\Desktop\signup 찐막\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\bitcamp\Desktop\signup 찐막\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\signup 찐막\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\bitcamp\Desktop\signup 찐막\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\bitcamp\Desktop\signup 찐막\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\signup 찐막\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\bitcamp\Desktop\signup 찐막\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\bitcamp\Desktop\signup 찐막\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+C:\Users\bitcamp\Desktop\signup 합본\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\bitcamp\Desktop\signup 합본\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\bitcamp\Desktop\signup 합본\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\bitcamp\Desktop\signup 합본\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\bitcamp\Desktop\signup 합본\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\bitcamp\Desktop\signup 합본\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\bitcamp\Desktop\signup 합본\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\signup 합본\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\bitcamp\Desktop\signup 합본\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\bitcamp\Desktop\signup 합본\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\signup 합본\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\bitcamp\Desktop\signup 합본\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\bitcamp\Desktop\signup 합본\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\bitcamp\Desktop\새 폴더 (2)\새 폴더 (2)\6_12\6_12\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+C:\Users\HM123\Desktop\6_13\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\HM123\Desktop\6_13\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\HM123\Desktop\6_13\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\HM123\Desktop\6_13\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\HM123\Desktop\6_13\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\HM123\Desktop\6_13\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\HM123\Desktop\6_13\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+C:\Users\HM123\Desktop\6_13\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\HM123\Desktop\6_13\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\HM123\Desktop\6_13\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\HM123\Desktop\6_13\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\HM123\Desktop\6_13\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\HM123\Desktop\6_13\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+C:\Users\bitcamp\Desktop\6_13\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\bitcamp\Desktop\6_13\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\bitcamp\Desktop\6_13\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\bitcamp\Desktop\6_13\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\bitcamp\Desktop\6_13\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\bitcamp\Desktop\6_13\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\bitcamp\Desktop\6_13\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\6_13\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\bitcamp\Desktop\6_13\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\bitcamp\Desktop\6_13\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\6_13\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\bitcamp\Desktop\6_13\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\bitcamp\Desktop\6_13\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
+C:\Users\bitcamp\Desktop\6_14\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Users\bitcamp\Desktop\6_14\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Users\bitcamp\Desktop\6_14\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Users\bitcamp\Desktop\6_14\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Users\bitcamp\Desktop\6_14\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Users\bitcamp\Desktop\6_14\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Users\bitcamp\Desktop\6_14\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Users\bitcamp\Desktop\6_14\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Users\bitcamp\Desktop\6_14\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Users\bitcamp\Desktop\6_14\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\6_14\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Users\bitcamp\Desktop\6_14\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Users\bitcamp\Desktop\6_14\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
